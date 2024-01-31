@@ -820,7 +820,7 @@
 				}
 
 				.container.style2:after {
-						background-color: var(--onvisible-background-color, #BF467E);
+						background-color: var(--onvisible-background-color, #534070);
 						border-radius: inherit;
 						content: '';
 						display: block;
