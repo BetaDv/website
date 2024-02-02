@@ -679,7 +679,6 @@
 						width: 100%;
 						align-items: center;
 						justify-content: center;
-						background-attachment: fixed;
 				}
 
 				.container.style2:not(:first-child) {
